@@ -1,1 +1,1 @@
-# Gasto-energ-tico-total--Calculadora-GET
+# Gasto-energetico-total--Calculadora-GET
